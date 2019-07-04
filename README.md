@@ -1,2 +1,2 @@
-# 19RPG-DEERHEAD-INTERIOR
-nineteen-roleplay.com l Deerhead Bar Interior 
+DEERHEAD-INTERIOR
+ Deerhead Bar Interior 
